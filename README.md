@@ -345,8 +345,7 @@ The application showcases real-world implementation of authentication (including
 
 ---
 
-**Developed by:** *Nkosinathi Mabena, Barefile Lephoto, Lesego Letsapa, Lufuno Dagada*  
-📧 *ST10344257@rcconnect.edu.za*  
+**Developed by:** *Nkosinathi Mabena, Barefile Lephoto, Lesego Letsapa, Lufuno Dagada* 
 🎓 *For University Project Use*  
 📅 *2025*
 
